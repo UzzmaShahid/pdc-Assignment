@@ -1,5 +1,5 @@
 public class Hello{
  public static void main(Sring[] args){
-  System.out.println("heelllooo");
+  System.out.println("heellllooo");
  }
 }
